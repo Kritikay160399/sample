@@ -1,2 +1,4 @@
 This is the f1.txt file 
 in master branch
+hello world!
+we are now in branch new branch
